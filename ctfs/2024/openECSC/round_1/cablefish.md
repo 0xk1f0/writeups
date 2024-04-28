@@ -12,6 +12,10 @@ This is a remote challenge, you can connect with:
 nc cablefish.challs.open.ecsc2024.it 38005
 ```
 
+## Categories
+
+- `misc`
+
 ## Provided Files
 
 - `chall.py`

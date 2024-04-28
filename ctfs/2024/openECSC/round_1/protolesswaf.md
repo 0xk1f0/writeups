@@ -8,6 +8,10 @@ I found this cool parser for protobuf that does not require a .proto file. I'm u
 Site: http://protolesswaf.challs.open.ecsc2024.it
 ```
 
+## Categories
+
+- `misc`
+
 ## Provided Files
 
 - `challenge.zip`
